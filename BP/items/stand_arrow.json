@@ -1,0 +1,15 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "jojo:stand_arrow",
+      "category": "items"
+    },
+    "components": {
+      "minecraft:display_name": {
+        "value": "Stand Arrow"
+      },
+      "minecraft:max_stack_size": 1
+    }
+  }
+}
