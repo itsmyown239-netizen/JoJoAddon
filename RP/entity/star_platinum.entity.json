@@ -1,0 +1,20 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "jojo:star_platinum",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/star_platinum"
+      },
+      "geometry": {
+        "default": "geometry.star_platinum"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    }
+  }
+}
