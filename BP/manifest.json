@@ -3,15 +3,15 @@
   "header": {
     "name": "JoJo Addon BP",
     "description": "JoJo Stand Addon",
-    "uuid": "11111111-1111-1111-1111-111111111111",
-    "version": [1,0,0],
-    "min_engine_version": [1,21,0]
+    "uuid": "6b7b3d0d-7f55-4d52-bc3c-6c2f0b1d9a01",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
       "type": "data",
-      "uuid": "22222222-2222-2222-2222-222222222222",
-      "version": [1,0,0]
+      "uuid": "8f24a5ce-6f3a-4c63-a7e1-2a1f2d9b7c11",
+      "version": [1, 0, 0]
     }
   ]
 }
